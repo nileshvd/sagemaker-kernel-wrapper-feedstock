@@ -21,6 +21,7 @@ requirements:
     - pip
   run:
     - python >=3.8
+    - boto3
 
 test:
   imports:
@@ -38,12 +39,4 @@ about:
 
 extra:
   recipe-maintainers:
-    - nileshvd
     - just4brown
-    - nargokul
-    - pintaoz-aws
-    - benieric
-    - mufaddal-rohawala
-    - C24IO
-    - Aditi2424
-    - akrishna1995
